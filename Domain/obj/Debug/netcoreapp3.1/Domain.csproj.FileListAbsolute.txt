@@ -1,0 +1,8 @@
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\projects\AGIBANK-Desafio\AGIBANK-Desafio\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

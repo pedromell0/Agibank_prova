@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "AGIBANK_Desafio_SW": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
